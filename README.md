@@ -3,10 +3,10 @@ Ship your SaaS faster with Nexty
 
 Nexty.dev is a comprehensive Next.js SaaS boilerplate that provides everything developers need to rapidly build and launch modern AI web applications
 
-Try [Nexty.dev today](https://nexty.dev?utm_source=github-nextjs-starter)
+Try [Nexty.dev today](https://nexty.dev?utm_source=github-test-git-service-004)
 ---
 
-[<img src="/public/try-nexty.webp">](https://nexty.dev?utm_source=github-nextjs-starter)
+[<img src="/public/try-nexty.webp">](https://nexty.dev?utm_source=github-test-git-service-004)
 
 
 🌍 *[English](README.md) ∙ [简体中文](README_zh.md) ∙ [日本語](README_ja.md)*
@@ -15,7 +15,7 @@ Try [Nexty.dev today](https://nexty.dev?utm_source=github-nextjs-starter)
 
 A feature-rich Next.js 16 multilingual starter template to help you quickly build globally-ready websites.
 
-- [👉 Source Code](https://github.com/weijunext/nextjs-starter)
+- [👉 Source Code](https://github.com/weijunext/test-git-service-004)
 - [👉 Live Demo](https://nextforge.dev/)
 
 **🚀 Looking for a full-featured SaaS Starter Template? [Check out the complete version](https://nexty.dev)**
@@ -47,8 +47,8 @@ A feature-rich Next.js 16 multilingual starter template to help you quickly buil
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/weijunext/nextjs-starter.git
-cd nextjs-starter
+git clone https://github.com/weijunext/test-git-service-004.git
+cd test-git-service-004
 ```
 
 2. Enable Corepack (recommended):
@@ -139,7 +139,7 @@ NEXT_PUBLIC_GOOGLE_ADSENSE=
 ## 📁 Project Structure
 
 ```
-nextjs-starter/
+test-git-service-004/
 ├── app/                      # App directory
 │   ├── [locale]/            # Internationalized routes
 │   │   ├── about/           # About page
@@ -182,7 +182,7 @@ nextjs-starter/
 
 ### One-Click Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/weijunext/nextjs-starter&project-name=&repository-name=nextjs-starter&demo-title=NextjsStarter&demo-description=Nextjs%2015%20starter.&demo-url=https://nextforge.dev&demo-image=https://nextforge.dev/og.png)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/weijunext/test-git-service-004&project-name=&repository-name=test-git-service-004&demo-title=NextjsStarter&demo-description=Nextjs%2015%20starter.&demo-url=https://nextforge.dev&demo-image=https://nextforge.dev/og.png)
 
 ### Manual Deployment to Vercel
 
