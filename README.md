@@ -34,6 +34,11 @@ A feature-rich Next.js 16 multilingual starter template to help you quickly buil
   - Google Adsense
   - Vercel Analytics
 
+## 🦕 Fun Fact
+
+**Q: Why can't you hear a pterodactyl go to the bathroom?**  
+**A: Because the "P" is silent!** 🚽
+
 ## 🚀 Quick Start
 
 ### Prerequisites
