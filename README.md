@@ -270,6 +270,12 @@ cp .env.example .env
 # Modify as needed
 ```
 
+## 🐬 Fun Break
+
+**Why don't dolphins use smartphones?**
+
+Because they're afraid of phishing! 🎣
+
 ## 📄 License
 
 MIT
