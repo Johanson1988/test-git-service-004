@@ -290,6 +290,10 @@ cp .env.example .env
 
 Because they're afraid of phishing! 🎣
 
+**Why did the robot go on a diet?**
+
+Because he had too many bytes! 🤖
+
 ## 📄 License
 
 MIT
