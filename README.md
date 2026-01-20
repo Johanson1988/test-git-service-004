@@ -11,6 +11,15 @@ Try [Nexty.dev today](https://nexty.dev?utm_source=github-test-git-service-004)
 
 🌍 *[English](README.md) ∙ [简体中文](README_zh.md) ∙ [日本語](README_ja.md)*
 
+---
+
+## 🦕 Dinosaur Joke of the Day
+
+**Q: Why can't you hear a pterodactyl go to the bathroom?**  
+**A: Because the "P" is silent!** 🚽
+
+---
+
 # Next Forge - Multilingual Next.js 16 Starter
 
 A feature-rich Next.js 16 multilingual starter template to help you quickly build globally-ready websites.
@@ -33,6 +42,11 @@ A feature-rich Next.js 16 multilingual starter template to help you quickly buil
   - Baidu Analytics
   - Google Adsense
   - Vercel Analytics
+
+## 🦕 Fun Fact
+
+**Q: Why can't you hear a pterodactyl go to the bathroom?**  
+**A: Because the "P" is silent!** 🚽
 
 ## 🚀 Quick Start
 
@@ -275,6 +289,10 @@ cp .env.example .env
 **Why don't dolphins use smartphones?**
 
 Because they're afraid of phishing! 🎣
+
+**Why did the robot go on a diet?**
+
+Because he had too many bytes! 🤖
 
 ## 📄 License
 
